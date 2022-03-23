@@ -1,0 +1,6 @@
+{
+    "Exploit":{
+        "Path": "./poc/",
+        "Logs": "./logs/errror.log"
+    }
+  }
